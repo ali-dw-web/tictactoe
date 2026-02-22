@@ -12,3 +12,13 @@
 - ⚡ **Instant Win Detection** – Highlights the winner immediately  
 - 🎨 **Responsive Design** – Works smoothly on desktop, tablet, and mobile  
 - 🏆 **Score Tracking** – Keep track of wins for both players
+- <img width="1366" height="637" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/cd1bc717-03dc-493a-a148-5dfe23ecde09" />
+-  ---
+## 🌍 Live Demo
+
+Play the Tic Tac Toe game live:
+
+- 🔗 Click the link below to start playing **with your friends** in real-time.  
+- ⚡ Enjoy 
+[Play Live Demo]()
+
