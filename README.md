@@ -20,5 +20,5 @@ Play the Tic Tac Toe game live:
 
 - 🔗 Click the link below to start playing **with your friends** in real-time.  
 - ⚡ Enjoy 
-[Play Live Demo]()
+[Play Live Demo](https://ali-dw-web.github.io/tictactoe/)
 
